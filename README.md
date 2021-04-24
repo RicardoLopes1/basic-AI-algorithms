@@ -9,19 +9,19 @@
 <p>
     In this folder we have a few different ways for the Depth-first search (DFS) algorithm. Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. 
 </p>
-    [dfs_vector](search-without-information/dfs_vector.cpp) this is a way to create this algorithm using array structure.<br />
-    [dfs_class](search-without-information/dfs_class.cpp) it is how to do a DFS using a class.<br />
-    And [dfs_arrayOfClass](search-without-information/dfs_arrayOfClass.cpp) it is the way to do a DFS using an array of classes.
+    <a href="search-without-information/dfs_vector.cpp">dfs_vector</a> this is a way to create this algorithm using array structure.<br />
+    <a href="search-without-information/dfs_class.cpp">dfs_class</a> it is how to do a DFS using a class.<br />
+    And <a href="search-without-information/dfs_arrayOfClass.cpp">dfs_arrayOfClass</a> it is the way to do a DFS using an array of classes.
 
 ## Search with information
 <p>
     In this folder we have two search algorithms that use heuristics to help decide which way to go. <br />
-    Greedy Search Algorithm and A Star Search Algorithm (__A*__).
+    Greedy Search Algorithm and A Star Search Algorithm (<b>A*</b>).
 </p>
-    [Greedy Search Algorithm](search-with-information/greedySearch.cpp) is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.<br />
-    And [A Star Search Algorithm](search-with-information/aStar.cpp) (__A*__) is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency.
+    <a href="search-with-information/greedySearch.cpp">Greedy Search Algorithm</a> is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.<br />
+    And <a href="search-with-information/aStar.cpp">A Star Search Algorithm</a> (<b>A*</b>) is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency.
 
-    ## PDF Exercise
+## PDF Exercise
 
-    `Lab-de-Agentes-VacuumWorld`, `Lab02-search-without-information` and `lab4-search-with-information` are the exercise files where the idea of ​​the algorithms in this repository was obtained.
+`Lab-de-Agentes-VacuumWorld.pdf`, `Lab02-search-without-information.pdf` and `lab4-search-with-information.pdf` are the exercise files where the idea of ​​the algorithms in this repository was obtained.
     
