@@ -2,7 +2,7 @@
 
 ## Vacuum World
 <p>
-    This is a "clean robot home" project. In this algorithm the robot is in an environment with two rooms, detects if the current room is dirty and clean if necessary.
+    This is a "clean robot home" project. In this algorithm the robot is in an environment with two rooms, detects if the current room is dirty and clean if necessary. Vacuum World was written in the Java language.
 </p>
 
 ## Search without information
